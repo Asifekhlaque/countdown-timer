@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    font-size:50px ;
+}
+h1{
+    text-align: center;
+    font-family: roboto;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    font-family: roboto;
+}
+.box{
+    margin-left: 50px;
+    text-align: center;
+}
+.box span{
+    display:block;
+}
